@@ -1,6 +1,6 @@
 body{
     color:white;
-    background-color:gray;
+    background-color:yellow;
     margin: 0px;
     font-family: "Work Sans", sans-serif;
     margin-bottom: 100px;
@@ -15,7 +15,7 @@ header{
 }
 
 .chamada{
-    background: gray;
+    background: red;
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
